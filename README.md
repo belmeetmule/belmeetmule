@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a passionate full-stack engineer with expertise in building scalable and performant web applications. With years of experience, I have a strong foundation in both front-end and back-end technologies, enabling me to deliver end-to-end solutions.
+I'm a passionate full-stack developer with expertise in building scalable and performant web applications. With years of experience, I have a strong foundation in both front-end and back-end technologies, enabling me to deliver end-to-end solutions.
 <!--
 **belmeetmule/belmeetmule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
