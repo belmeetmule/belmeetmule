@@ -3,7 +3,7 @@ I'm a passionate full-stack developer with expertise in building scalable and pe
 <!--
 **belmeetmule/belmeetmule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 👯 I’m looking to collaborate on Javascript, React and RoR Projects.
+- 👯 I’m looking to collaborate on Django, Javascript, React and RoR Projects.
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mulugeta-belete/) | [Email](belmeetmule@gmail.com)
 - 😄 Pronouns: He/Him
